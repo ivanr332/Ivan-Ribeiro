@@ -1,0 +1,112 @@
+---
+layout: cv
+title: Ivan Ribeiro's CV
+---
+
+
+# Ivan Ribeiro
+
+📍 Rexburg, ID  
+📧 elivandsonribeiro@gmail.com  
+📞 (385) 221-2372  
+🔗 [LinkedIn](https://www.linkedin.com/in/elivandsonribeiro/)  
+💻 [GitHub](https://github.com/ivanr332)
+
+---
+
+## Professional Summary
+
+Business Analytics student with experience in business intelligence, project analysis, and operations. Skilled in Power BI, SQL, and Excel, with a strong focus on transforming data into actionable insights that support decision-making and improve business performance.
+
+---
+
+## Education
+
+**Brigham Young University - Idaho**  
+Bachelor of Science in Business Analytics / Finance  
+Expected Graduation: July 2026  
+GPA: 3.88  
+
+Relevant Coursework:
+- Financial Analysis  
+- Strategic Planning  
+- Business Strategy  
+- Project Management  
+
+---
+
+## Technical Skills
+
+- **Power BI:** Dashboards, DAX, Data Modeling  
+- **SQL:** Data Extraction, Joins, Aggregations  
+- **Excel:** Financial Analysis, KPI Tracking, Forecasting  
+
+---
+
+## Professional Experience
+
+### Project Analyst  
+**Brigham Young University - Idaho** — Rexburg, ID  
+Jan 2025 – Present  
+
+- Conduct structured audits across 15+ courses per semester to ensure compliance and content quality  
+- Lead cross-functional meetings with 5–8 stakeholders to implement solutions  
+- Reduced revision cycles by 30% through process improvements  
+
+---
+
+### Production Leadership Intern  
+**Taylor Corporation – The Occasions Group** — Rexburg, ID  
+Sep 2025 – Dec 2025  
+
+- Led training initiatives for 30+ employees to standardize processes  
+- Collaborated with operations and leadership teams to improve workflow efficiency by 20%  
+
+---
+
+### Business Intelligence Analyst Intern  
+**4Life Research** — Sandy, UT  
+Oct 2024 – Dec 2024  
+
+- Built Power BI dashboards to monitor revenue and retention across LATAM markets  
+- Identified key churn drivers, contributing to a 15% reduction in attrition  
+- Partnered with cross-functional teams to resolve reporting and system issues  
+
+---
+
+### Project Analyst  
+**BYU-Pathway Worldwide** — Salt Lake City, UT  
+Jul 2023 – Oct 2024  
+
+- Evaluated project management tools through stakeholder analysis and cost-benefit studies  
+- Supported selection of Monday.com, reducing status update requests by 40%  
+- Built dashboards to improve executive visibility and reduce project variance by 25%  
+
+---
+
+### Account Executive  
+**4Life Research** — Sandy, UT  
+Aug 2018 – Aug 2021  
+
+- Managed performance and relationships for 500+ consultants  
+- Analyzed regional sales data to identify growth opportunities  
+- Delivered training and support to improve engagement and business performance  
+
+---
+
+## Projects
+
+### Merchandising Analytics Project  
+**BYU-Idaho** — Jan 2026 – Present  
+
+- Analyzed sales and inventory data using Excel and Power BI  
+- Identified merchandising gaps and revenue optimization opportunities  
+
+---
+
+## Additional Skills
+
+- Data Analysis & Business Insights  
+- Process Improvement  
+- Stakeholder Collaboration  
+- Bilingual: English & Portuguese  

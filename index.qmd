@@ -1,0 +1,43 @@
+---
+title: "Home"
+---
+
+# Ivan Ribeiro  
+## Business Analytics Student | Data-Driven Decision Making
+
+I am a Business Analytics student with experience in Power BI, SQL, and Excel, focused on transforming data into actionable business insights.
+
+---
+
+## 🔧 Skills
+
+- Power BI (Dashboards, DAX, Data Modeling)
+- SQL (Data Extraction, Joins, Aggregations)
+- Excel (Financial Analysis, Forecasting, Dashboards)
+- Data Analysis & Business Insights
+
+---
+
+## 📊 Featured Projects
+
+### Sales Performance Dashboard
+- Built an interactive Power BI dashboard to analyze sales performance  
+- Identified key revenue drivers and growth opportunities  
+
+### SQL Business Analysis
+- Developed queries to extract and analyze business data  
+- Improved reporting efficiency and decision-making  
+
+---
+
+## 🎯 Career Goals
+
+Seeking opportunities as a Business Analyst or Data Analyst to leverage data for strategic decision-making.
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/elivandsonribeiro)
+- [GitHub](https://github.com/ivanr332)
+

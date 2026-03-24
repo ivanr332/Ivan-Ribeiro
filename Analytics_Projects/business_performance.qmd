@@ -1,0 +1,27 @@
+---
+title: "Project Title"
+---
+
+## Business Problem
+
+Describe the business problem this project solves.
+
+## Tools Used
+
+- Tool 1
+- Tool 2
+- Tool 3
+
+## Analysis / Approach
+
+Explain what you did step by step.
+
+## Key Insights
+
+- Insight 1
+- Insight 2
+- Insight 3
+
+## Impact
+
+Explain the business value of this project.

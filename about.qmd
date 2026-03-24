@@ -1,0 +1,74 @@
+---
+title: "About Me"
+---
+
+## About Me
+
+I am a Business Analytics student with hands-on experience in business intelligence, project analysis, and operational improvement. My work focuses on transforming data into actionable insights that support strategic decision-making and improve business performance.
+
+I bring a combination of analytical skills, business understanding, and real-world experience working with cross-functional teams in dynamic environments across U.S. and Latin American markets.
+
+---
+
+## Professional Experience
+
+I have developed my analytical and business skills through roles in business intelligence, project analysis, and operations:
+
+- As a **Business Intelligence Analyst Intern**, I built dashboards to support executive decision-making and identified key drivers of customer churn, contributing to a **15% reduction in attrition**.  
+- As a **Project Analyst**, I conducted structured audits and led stakeholder meetings, helping reduce revision cycles by **30%** and improving process efficiency. :contentReference[oaicite:1]{index=1}  
+- In operations, I improved workflows and reduced variability by **20%** through training and process standardization.
+
+These experiences strengthened my ability to connect data analysis with real business impact.
+
+---
+
+## What I Do
+
+- Build interactive dashboards using Power BI to support business decisions  
+- Analyze and extract data using SQL  
+- Develop business and financial models in Excel  
+- Identify operational inefficiencies and recommend improvements  
+- Work with stakeholders to translate data into actionable strategies  
+
+---
+
+## Skills
+
+### Technical Skills
+- Power BI (Dashboards, DAX, Data Modeling)
+- SQL (Joins, Aggregations, Data Cleaning)
+- Excel (Financial Analysis, KPI Tracking, Forecasting)
+
+### Business & Analytical Skills
+- Data Analysis & Business Insights  
+- Project Management & Process Improvement  
+- Cross-functional Collaboration  
+- Problem Solving  
+
+---
+
+## Education
+
+**Brigham Young University - Idaho**  
+Bachelor of Science in Business Analytics (Expected July 2026)  
+GPA: 3.88 
+
+Relevant Coursework:
+- Financial Analysis  
+- Strategic Planning  
+- Business Strategy  
+- Project Management 
+
+---
+
+## Career Focus
+
+I am seeking opportunities as a **Business Analyst or Data Analyst**, where I can leverage data, analytics, and business insight to drive performance, improve processes, and support strategic decisions.
+
+---
+
+## Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/elivandsonribeiro/)  
+- [GitHub](https://github.com/ivanr332)
+

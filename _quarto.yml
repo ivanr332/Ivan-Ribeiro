@@ -1,0 +1,121 @@
+project: 
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ivan Ribeiro | Business Analytics Portfolio"
+  favicon: Images/favicon.png
+  back-to-top-navigation: true
+  repo-url: https://github.com/ivanr332/Ivan-Ribeiro
+
+  page-footer: 
+    border: true
+    left: "Ivan Ribeiro © 2026"
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/elivandsonribeiro/
+      - icon: github
+        href: https://github.com/ivanr332
+
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "About Me"
+        file: about.qmd
+      - text: "Resume"
+        file: resume.qmd
+      - text: "Power BI"
+        file: powerbi.qmd
+      - text: "SQL"
+        file: sql.qmd
+      - text: "Excel"
+        file: excel.qmd
+      - text: "Analytics Projects"
+        file: analytics_projects.qmd
+      - text: "Project Management"
+        file: project_management.qmd
+      - text: "Contact"
+        file: contact.qmd
+
+  sidebar: 
+
+    - title: "Power BI Dashboards"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Overview"
+          file: powerbi.qmd
+        - text: "---"
+        - text: "Sales Performance Dashboard"
+          file: PowerBI_Projects/sales_dashboard.qmd
+        - text: "Customer Insights Dashboard"
+          file: PowerBI_Projects/customer_dashboard.qmd
+        - text: "Operations Dashboard"
+          file: PowerBI_Projects/operations_dashboard.qmd
+
+    - title: "SQL Projects"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Overview"
+          file: sql.qmd
+        - text: "---"
+        - text: "Database Analysis Project"
+          file: SQL_Projects/database_analysis.qmd
+        - text: "Business Reporting Queries"
+          file: SQL_Projects/business_reporting.qmd
+        - text: "Data Cleaning with SQL"
+          file: SQL_Projects/data_cleaning.qmd
+
+    - title: "Excel Analysis"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Overview"
+          file: excel.qmd
+        - text: "---"
+        - text: "Executive Dashboard"
+          file: Excel_Projects/executive_dashboard.qmd
+        - text: "Forecasting Model"
+          file: Excel_Projects/forecasting_model.qmd
+        - text: "Financial Analysis"
+          file: Excel_Projects/financial_analysis.qmd
+
+    - title: "Analytics Projects"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Overview"
+          file: analytics_projects.qmd
+        - text: "---"
+        - text: "Market Analysis"
+          file: Analytics_Projects/market_analysis.qmd
+        - text: "Customer Behavior Analysis"
+          file: Analytics_Projects/customer_behavior.qmd
+        - text: "Business Performance Analysis"
+          file: Analytics_Projects/business_performance.qmd
+
+    - title: "Project Management"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Overview"
+          file: project_management.qmd
+        - text: "---"
+        - text: "Project Planning"
+          file: Project_Management/project_planning.qmd
+        - text: "Agile Project"
+          file: Project_Management/agile_project.qmd
+        - text: "Process Improvement"
+          file: Project_Management/process_improvement.qmd
+
+format:  
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
